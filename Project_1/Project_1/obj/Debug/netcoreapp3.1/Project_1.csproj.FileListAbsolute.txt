@@ -1,0 +1,13 @@
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\bin\Debug\netcoreapp3.1\Project_1.exe
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\bin\Debug\netcoreapp3.1\Project_1.deps.json
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\bin\Debug\netcoreapp3.1\Project_1.runtimeconfig.json
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\bin\Debug\netcoreapp3.1\Project_1.runtimeconfig.dev.json
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\bin\Debug\netcoreapp3.1\Project_1.dll
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\bin\Debug\netcoreapp3.1\Project_1.pdb
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\obj\Debug\netcoreapp3.1\Project_1.csprojAssemblyReference.cache
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\obj\Debug\netcoreapp3.1\Project_1.AssemblyInfoInputs.cache
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\obj\Debug\netcoreapp3.1\Project_1.AssemblyInfo.cs
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\obj\Debug\netcoreapp3.1\Project_1.csproj.CoreCompileInputs.cache
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\obj\Debug\netcoreapp3.1\Project_1.dll
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\obj\Debug\netcoreapp3.1\Project_1.pdb
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Project_1\Project_1\obj\Debug\netcoreapp3.1\Project_1.genruntimeconfig.cache
