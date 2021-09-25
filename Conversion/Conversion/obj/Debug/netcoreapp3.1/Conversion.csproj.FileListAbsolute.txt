@@ -1,0 +1,13 @@
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.exe
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.deps.json
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.json
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.dev.json
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.dll
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.pdb
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.csprojAssemblyReference.cache
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfoInputs.cache
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfo.cs
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.csproj.CoreCompileInputs.cache
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.dll
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.pdb
+F:\PIAS\Pias ULAB\SEM-10\CSE-416\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.genruntimeconfig.cache
